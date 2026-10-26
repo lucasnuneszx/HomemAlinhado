@@ -1,0 +1,3 @@
+# O app é um workspace próprio, separado da landing.
+# Sem isso o pnpm da raiz captura esta pasta e não instala nada aqui.
+packages: []
